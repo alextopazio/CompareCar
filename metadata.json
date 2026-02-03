@@ -1,0 +1,5 @@
+{
+  "name": "ComparaCar",
+  "description": "Um aplicativo avançado de comparação de carros impulsionado por IA, permitindo aos usuários comparar especificações técnicas e visualizar imagens de até três veículos simultaneamente.",
+  "requestFramePermissions": []
+}
